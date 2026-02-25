@@ -58,9 +58,8 @@ body {
 }
 
 .hero-content h1 {
-    color: #2ecc71;
-    font-size: 3rem;
-    text-align: left;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
 }
 
 .hero-content p {
@@ -91,7 +90,7 @@ body {
 /* TODO: Adicionar estilos para o rodapé */
 
 h1 {
-    color: #e74c3c;
-    font-size: 2.5rem;
-    text-align: center;
+    color: #2ecc71;
+    font-size: 3rem;
+    text-align: left;
 }

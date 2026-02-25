@@ -90,7 +90,15 @@ body {
 /* TODO: Adicionar estilos para o rodapé */
 
 h1 {
+<<<<<<< HEAD
     color: #465132;
     font-size: 5rem;
+=======
+    color: #2cfc71;
+    font-size: 3rem;
+    text-align: left;
+    color: #2ccd71;
+    font-size: 3rem;
+>>>>>>> 7b39ccb814c0092208eb11189deda442004108bd
     text-align: left;
 }
